@@ -1,0 +1,5 @@
+python can be used on a server to create web applications.
+python can ben used alongside software to create workflows.
+python can be connect to database systems.
+it can also read and modify files.
+python can be used to handle big data and perform complex mathematics.
